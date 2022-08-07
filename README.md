@@ -1,4 +1,4 @@
-# MG_MavenSeverityFrameWorkWithApi
+# MG_MavenSeverityFrameWorkWithApi (Severity basic only I am open to learn more:))
 
 
 Framework for only Backend
