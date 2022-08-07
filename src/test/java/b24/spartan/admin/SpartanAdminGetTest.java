@@ -20,6 +20,7 @@ import static net.serenitybdd.rest.SerenityRest.given;
 
 //Always make sure you select clean
 
+
 @Disabled
 @SerenityTest
 public class SpartanAdminGetTest {

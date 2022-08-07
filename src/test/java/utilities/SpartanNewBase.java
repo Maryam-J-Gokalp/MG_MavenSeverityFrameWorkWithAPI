@@ -18,7 +18,6 @@ public class SpartanNewBase {
     public static RequestSpecification adminSpec;
 
 
-
     @BeforeAll
     public static void init(){
         //save baseurl inside this variable so that we dont need to type each http method.

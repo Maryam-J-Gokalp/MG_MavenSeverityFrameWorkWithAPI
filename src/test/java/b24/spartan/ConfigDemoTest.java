@@ -1,5 +1,4 @@
 package b24.spartan;
-
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import utilities.ConfigReader;
